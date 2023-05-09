@@ -1,0 +1,32 @@
+<div class="container">
+  <h1 class="title">{{ serie.title }}</h1>
+  <div class="content">
+    <div class="left">
+      <img
+        class="image"
+        src="{{ serie.thumbnail.path + '.' + serie.thumbnail.extension }}"
+        alt=""
+      />
+    </div>
+    <div class="right">
+      <form [formGroup]="tableForm">
+        <table>
+          <thead>
+            <tr>
+              <th>Id</th>
+              <th>Nombre</th>
+              <th>Fecha</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><input formControlName="id" /></td>
+              <td><input type="text" formControlName="title" /></td>
+              <td><input type="text" formControlName="modified" /></td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </div>
+  </div>
+</div>
