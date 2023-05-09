@@ -6,10 +6,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Angular">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
 
-# Second Exam - Christian Oller Vilchez
+# Second Exam
+
+## Christian Oller Vilchez - 09/05/2023
 
 ## About Project 🚀
 
@@ -19,9 +19,9 @@ I hope you enjoy seeing it as much as I enjoyed creating it, thank you very much
 
 ### Prerequisites 📋
 
-This project was generated with Angular CLI <version>
-This project was generated with Node <version>  
-This project was generated with NPM <version>
+This project was generated with Angular CLI version 15.2.3.
+This project was generated with Node version 18.15.0
+This project was generated with NPM version 9.5.0
 
 ### Build with 🛠️
 
@@ -31,10 +31,10 @@ Visual Studio Code
 
 ```bash
 # Clone this repository
-$ git clone + <url-repository>
+$ git clone + https://ch-exam2@dev.azure.com/ch-exam2/exam2/_git/exam2
 
 # Go into the repository
-$ cd exam1
+$ cd exam2
 
 # Install dependencies
 $ npm install
@@ -77,8 +77,6 @@ And configuring both on the .prettierrc file, the package.json for the scripts a
 
 A hook is also configured in the .git folder of the project that prevents you from committing to the master branch to avoid possible problems and encourage you to work on other branches and use pull requests as the correct way to work. Here is an example of what would happen if you try to commit to the master branch:
 
-![Git-hook](./src/assets/images/info/git-hook.jpg)
-
 ### Scripts ⚡
 
 The configured scripts that may be useful to you are the following:
@@ -103,7 +101,7 @@ For this project I have implemented the branch work methodology, which consists 
 The idea of this methodology is to work with a feature branch, creating and closing issues in the github project through pull requests, which in this case are accepted by me, but it is useful for the verification of the work and the possible combination of others by being able to make parallel branches and make pull requests.
 I used SourceTree as a tool to manage the branches and the commits, which I find very useful and easy to use.
 
-![Sourcetree](./src/assets/images/git-work.jpg)
+![Sourcetree]()
 
 ### Notion 📖
 
@@ -140,6 +138,10 @@ This footer is responsive so we can see it well in different screen sizes
 
 ## Final Result
 
+#### Login
+
+![Login](./src/assets/images/screenshot-welcome.jpg)
+
 #### Home Page
 
 ![Welcome-Page](./src/assets/images/screenshot-welcome.jpg)
@@ -151,14 +153,6 @@ This footer is responsive so we can see it well in different screen sizes
 #### Characteristics Page
 
 ![Characteristics-Page](./src/assets/images/screenshot-characteristics.jpg)
-
-#### Planet Page
-
-![Planet-Page](./src/assets/images/screenshot-planet.jpg)
-
-#### Ship Page
-
-![Ship-Page](./src/assets/images/screenshot-ship.jpg)
 
 #### Page Not Found Page
 
@@ -172,7 +166,7 @@ This footer is responsive so we can see it well in different screen sizes
 
 ### Deployed on Vercel
 
-https://exam1-three.vercel.app/
+https://exam2-rho.vercel.app/
 
 ### Responsive version
 
