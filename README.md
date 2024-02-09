@@ -7,9 +7,9 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Angular">
 
-# Second Exam
+# Scaffolding example
 
-## Christian Oller Vilchez - 09/05/2023
+## Christian Oller Vilchez - <date>
 
 ## About Project 🚀
 
@@ -179,7 +179,7 @@ christianoller.dev@gmail.com
 
 ### Gratitude 🎁
 
-- Thanks to all my colleagues at Vueling University and especially to my trainer Jordi for the knowledge imparted during the course.
+- Thanks to all my colleagues for the knowledge imparted.
 
 ---
 
